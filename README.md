@@ -1,3 +1,4 @@
+Analog Electronics, Review of Circuits and systems, Vahid Hakimi
  Electricity vs Electronics
 
 Electricity is the flow of electric power, mainly used to deliver energy from one place to another—like lighting a bulb or running a motor. Electronics, on the other hand, is about controlling and manipulating that electrical energy to perform specific tasks, like processing signals or data.
