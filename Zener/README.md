@@ -1,1 +1,1 @@
-Short conclusion 
+The Zener diode keeps the output voltage (Vout) approximately constant around 10 V when the load resistance is high (e.g., 100 kΩ and 10 kΩ). However, when the load resistance decreases to 1 kΩ, Vout begins to drop because more current is drawn by the load, reducing the current available for the Zener diode to maintain regulation. This shows that the Zener diode can regulate voltage effectively only within its operating current range.
